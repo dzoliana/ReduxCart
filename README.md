@@ -2,7 +2,7 @@
 
 Advanced Redux project exercise that displays shopping cart.
 
-![cart1](/cart1.png
+![cart1](/cart1.png)
 ![cart2](/cart2.png)
 
 ## Built with
