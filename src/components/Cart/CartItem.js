@@ -12,7 +12,7 @@ const CartItem = (props) => {
   };
 
   const addItemHandler = () => {
-    dispatch(cartActions.addItemToCart({}));
+    dispatch(cartActions.addItemToCart({ id, title, price }));
   };
 
   return (
